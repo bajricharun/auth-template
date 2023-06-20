@@ -1,0 +1,49 @@
+{
+  "name": "auth-boilerplate-nodejs-typescript",
+  "version": "1.0.0",
+  "description": "Authentication Boilerplate with Node.js and Exress, Typescript used",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc && tsc-alias",
+    "start": "node dist/index.js",
+    "dev": "concurrently \"npx tsc --watch && tsc-alias\" \"nodemon -q dist/index.js\"",
+    "test": "tsc-alias && jest"
+  },
+  "author": "Harun Bajric",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.14.1",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "messagebird": "^4.0.1",
+    "module-alias": "^2.2.2",
+    "prisma": "^4.14.1",
+    "ts-node": "^10.9.1",
+    "winston": "^3.9.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "@types/express-validator": "^3.0.0",
+    "@types/jest": "^29.5.1",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/module-alias": "^2.0.1",
+    "@types/node": "^20.2.5",
+    "@types/supertest": "^2.0.12",
+    "concurrently": "^8.0.1",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "prettier": "2.8.8",
+    "supertest": "^6.3.3",
+    "ts-jest": "^29.1.0",
+    "tsc-alias": "^1.8.6",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.0.4"
+  }
+}

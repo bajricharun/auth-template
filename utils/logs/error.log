@@ -1,0 +1,66 @@
+30-05-2023 10:07:32:732 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 10:08:25:825 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 10:09:40:940 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 10:15:00:150 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 10:16:32:1632 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 10:16:32:1632 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 10:16:32:1632 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 10:16:32:1632 [[32minfo[39m]: [32mRegistered new user. 1[39m
+30-05-2023 10:16:44:1644 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 10:16:44:1644 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 10:16:44:1644 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 10:16:44:1644 [[33mwarn[39m]: [33mCould not register new user harunbajric@protonmail.com, 387603165742[39m
+30-05-2023 18:42:52:4252 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 18:42:52:4252 [[32minfo[39m]: [32mRegistered new user. 2[39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35mvalidation failed[39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35m[[39m
+[35m  {[39m
+[35m    type: 'field',[39m
+[35m    value: 'harunbajric',[39m
+[35m    msg: 'Email not valid',[39m
+[35m    path: 'email',[39m
+[35m    location: 'body'[39m
+[35m  }[39m
+[35m][39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:42:52:4252 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 18:42:52:4252 [[33mwarn[39m]: [33mCould not register new user harunbajric@protonmail.com, 387603165742[39m
+30-05-2023 18:43:27:4327 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 18:43:27:4327 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:43:27:4327 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 18:43:28:4328 [[33mwarn[39m]: [33mCould not register new user harunbajri21c@protonmail.com, 3876031657422[39m
+30-05-2023 18:43:28:4328 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:43:28:4328 [[35mhttp[39m]: [35mvalidation failed[39m
+30-05-2023 18:43:28:4328 [[35mhttp[39m]: [35m[[39m
+[35m  {[39m
+[35m    type: 'field',[39m
+[35m    value: 'harunbajric',[39m
+[35m    msg: 'Email not valid',[39m
+[35m    path: 'email',[39m
+[35m    location: 'body'[39m
+[35m  }[39m
+[35m][39m
+30-05-2023 18:43:28:4328 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:43:28:4328 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 18:43:28:4328 [[33mwarn[39m]: [33mCould not register new user harunbajric@protonmail.com, 387603165742[39m
+30-05-2023 18:44:05:445 [[32minfo[39m]: [32m[server]: Server is running @ http://localhost:3000[39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 18:44:05:445 [[32minfo[39m]: [32mRegistered new user. 3[39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35mvalidation failed[39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35m[[39m
+[35m  {[39m
+[35m    type: 'field',[39m
+[35m    value: 'harunbajric',[39m
+[35m    msg: 'Email not valid',[39m
+[35m    path: 'email',[39m
+[35m    location: 'body'[39m
+[35m  }[39m
+[35m][39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35mvalidating >> /api/auth/register[39m
+30-05-2023 18:44:05:445 [[35mhttp[39m]: [35mvalidated >> /api/auth/register[39m
+30-05-2023 18:44:05:445 [[33mwarn[39m]: [33mCould not register new user harunbajric@protonmail.com, 387603165742[39m
